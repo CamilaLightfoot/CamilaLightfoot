@@ -34,18 +34,7 @@ Performed feature selection, evaluated the model with accuracy and confusion mat
 ## 📬 Let's Connect
 - 📧 **Email:** [camilacs_6@hotmail.com](mailto:camilacs_6@hotmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/camilalightfoot)  
-- 📁 [eCornell ML Portfolio](https://github.com/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects)
+- 📁 Explore my [eCornell ML Portfolio](https://github.com/CamilaLightfoot/My-eCornell-Portfolio)  
 
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaLightfoot&show_icons=true&theme=default)
 
-
-I'm a Computer Science student at George Mason University and an AI Fellow at Break Through Tech in partnership. I'm passionate about applying machine learning to real-world problems, from sentiment analysis to image classification, with a strong foundation in Python, scikit-learn, and data-driven storytelling.
-
-My interests include:
-- Machine Learning & Data Science
-- Ethical AI & Algorithmic Fairness
-- Database Design, Web Development
-- Making tech more inclusive and impactful
-
-Explore my [eCornell ML Portfolio](https://github.com/CamilaLightfoot/My-eCornell-Portfolio)  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/camilalightfoot/)  
