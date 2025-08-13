@@ -12,6 +12,7 @@ I’m passionate about applying Machine Learning to real-world problems, from se
 
 ### [ETL Pipeline for AirBnB Data Modeling](https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
 Preprocesses Airbnb data, handles missing values, transforms categorical and numerical variables, and identifies relevant features for modeling.  
+![Here the data that I used:] https://github.com/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects/blob/main/airbnbData_train.csv
 **Skills:** Data cleaning, feature engineering, Pandas, NumPy  
 
 ### [Lab 3 – Train Decision Trees & K-Nearest Neighbors](#)
