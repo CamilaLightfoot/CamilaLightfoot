@@ -8,7 +8,12 @@ I’m passionate about applying Machine Learning to real-world problems, from se
 - 📧 **Email:** [camilacs_6@hotmail.com](mailto:camilacs_6@hotmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/camila-lightfoot)
 
+
 ## 📂 Featured Projects
+
+### [Fall AI Studio Project](https://github.com/CamilaLightfoot/Fall-AI-Studio)
+Developed with Planned Parenthood Federation, this project analyzes and augments chatbot data to improve sexual and reproductive health responses.  
+**Skills:** Data analysis, binary classification, confusion matrix evaluation, model development, and deployment considerations.
 
 ### [ETL Pipeline for AirBnB Data Modeling](https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
 Preprocesses Airbnb data, handles missing values, transforms categorical and numerical variables, and identifies relevant features for modeling.  
@@ -35,10 +40,9 @@ Performed feature selection, evaluated the model with accuracy and confusion mat
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
-
+## 📂My eCornell Machine Learning Foundations Portfolio
 ### [eCornell ML Portfolio](https://github.com/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects)
-A collection of projects covering the full ML lifecycle, from data preprocessing to model deployment.
+A collection of projects covering the full Machine learning foundations, from data preprocessing to model deployment.
 
 ## 📚 Currently Learning
 - Cloud deployment of ML models  
