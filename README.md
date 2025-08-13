@@ -12,7 +12,7 @@ I care deeply about **ethical AI** and building technology that is inclusive, im
 
 ## 📂 Featured Projects
 
-### [Data Preparation for Modeling](#) (https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
+### [Data Preparation for Modeling](https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
 Preprocessed Airbnb data, handled missing values, transformed categorical and numerical variables, and identified relevant features for modeling.  
 **Skills:** Data cleaning, feature engineering, Pandas, NumPy  
 
