@@ -43,7 +43,7 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 - **Skills:** Feature selection, evaluation metrics, deployment considerations
 
 ### [TealTurtle](https://github.com/CamilaLightfoot/TealTurtle)
-- **What We Did:** An **AI-driven, PoseNet-powered interactive health education tool for kids** designed to make learning about wellness fun and engaging.
+- **What We Did:** An AI-driven, PoseNet-powered interactive health education tool for kids, designed to make learning about wellness fun and engaging. Built as part of the **H2AI Health Hackathon with AI**, this project combines computer vision with educational content to encourage healthy habits in an interactive way.
 
 - **Skills:** Pose estimation, AI-assisted interactivity, Node.js, Azure OpenAI, front-end integration.
 
