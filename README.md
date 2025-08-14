@@ -13,34 +13,34 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 ## 📂 Featured Projects
 
 ### [Fall AI Studio Project](https://github.com/CamilaLightfoot/Fall-AI-Studio)
-**What I Did:** Partnered with Planned Parenthood Federation to analyze and augment chatbot data to improve sexual and reproductive health responses.  
-**Tools & Skills:** Data analysis, binary classification, confusion matrix evaluation, model development, deployment considerations.  
-**Result:** Delivered a predictive model capable of identifying chatbot cases needing improved responses.  
+- **What I Did:** Partnered with Planned Parenthood Federation to analyze and augment chatbot data to improve sexual and reproductive health responses.  
+- **Tools & Skills:** Data analysis, binary classification, confusion matrix evaluation, model development, deployment considerations.  
+- **Result:** Delivered a predictive model capable of identifying chatbot cases needing improved responses.  
 
 
 ### [ETL Pipeline for AirBnB Data Modeling](https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
-**What I Did:** Preprocesses Airbnb data, handles missing values, transforms categorical and numerical variables, and identifies relevant features for modeling.  
-**Tools & Skills:** Python, Pandas, NumPy, data cleaning, feature engineering.
+- **What I Did:** Preprocesses Airbnb data, handles missing values, transforms categorical and numerical variables, and identifies relevant features for modeling.  
+- **Tools & Skills:** Python, Pandas, NumPy, data cleaning, feature engineering.
 
-**Dataset Used:** [airbnbData_train.csv](https://github.com/CamilaLightfoot/ML-LifeCycle-Data-Preparation-for-Modeling/blob/main/Database/airbnbData_train.csv)
+- **Dataset Used:** [airbnbData_train.csv](https://github.com/CamilaLightfoot/ML-LifeCycle-Data-Preparation-for-Modeling/blob/main/Database/airbnbData_train.csv)
 
-**Skills:** Data cleaning, feature engineering, Pandas, NumPy  
+- **Skills:** Data cleaning, feature engineering, Pandas, NumPy  
 
 ### [Train Decision Trees & K-Nearest Neighbors](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling)
-**What I Did:** Trained and evaluated classification models using Decision Trees and KNN, compared performance, and tuned hyperparameters for better accuracy.  
-**Tools & Skills:** scikit-learn, hyperparameter tuning, model evaluation. 
+- **What I Did:** Trained and evaluated classification models using Decision Trees and KNN, compared performance, and tuned hyperparameters for better accuracy.  
+- **Tools & Skills:** scikit-learn, hyperparameter tuning, model evaluation. 
 
-**Datasets Used:** [airbnbData_Prepared.csv](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling/blob/main/Database/airbnbData_Prepared.csv), [airbnb_readytoOHE.csv](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling/blob/main/Database/airbnb_readytoOHE.csv)
+- **Datasets Used:** [airbnbData_Prepared.csv](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling/blob/main/Database/airbnbData_Prepared.csv), [airbnb_readytoOHE.csv](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling/blob/main/Database/airbnb_readytoOHE.csv)
 
-**Skills:** scikit-learn, hyperparameter tuning, model evaluation  
+- **Skills:** scikit-learn, hyperparameter tuning, model evaluation  
 
 ### [Machine Learning Life Cycle: Evaluation and Deployment](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment)
-**What I Did:** Performed feature selection, evaluated the model with accuracy and confusion matrix, and discussed considerations for deployment in production.  
-**Tools & Skills:** Feature selection (SelectKBest), evaluation metrics, deployment with pickle, precision-recall & ROC analysis.  
+- **What I Did:** Performed feature selection, evaluated the model with accuracy and confusion matrix, and discussed considerations for deployment in production.  
+- **Tools & Skills:** Feature selection (SelectKBest), evaluation metrics, deployment with pickle, precision-recall & ROC analysis.  
 
-**Dataset Used:** [airbnbData_train(2).csv](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment/blob/main/Database/airbnbData_train%20(2).csv)
+- **Dataset Used:** [airbnbData_train(2).csv](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment/blob/main/Database/airbnbData_train%20(2).csv)
 
-**Skills:** Feature selection, evaluation metrics, deployment considerations  
+- **Skills:** Feature selection, evaluation metrics, deployment considerations  
 
 
 ## Tech Stack
