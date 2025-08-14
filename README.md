@@ -30,6 +30,7 @@ Here the data that I used: [airbnbData_Prepared.csv](https://github.com/CamilaLi
 ### [Machine Learning Life Cycle: Evaluation and Deployment](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment)
 Performed feature selection, evaluated the model with accuracy and confusion matrix, and discussed considerations for deployment in production.  
 Here the data that I used: [airbnbData_train(2).csv](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment/blob/main/Database/airbnbData_train%20(2).csv)
+
 **Skills:** Feature selection, evaluation metrics, deployment considerations  
 
 
