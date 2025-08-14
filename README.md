@@ -28,7 +28,7 @@ Here the data that I used: [airbnbData_Prepared.csv](https://github.com/CamilaLi
 **Skills:** scikit-learn, hyperparameter tuning, model evaluation  
 
 
-### [Lab 5 – Machine Learning Life Cycle: Evaluation and Deployment](#)
+### [Machine Learning Life Cycle: Evaluation and Deployment](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment)
 Performed feature selection, evaluated the model with accuracy and confusion matrix, and discussed considerations for deployment in production.  
 **Skills:** Feature selection, evaluation metrics, deployment considerations  
 
