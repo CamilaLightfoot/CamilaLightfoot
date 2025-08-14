@@ -21,9 +21,12 @@ Here the **data** that I used: [airbnbData_train.csv](https://github.com/CamilaL
 
 **Skills:** Data cleaning, feature engineering, Pandas, NumPy  
 
-### [Lab 3 – Train Decision Trees & K-Nearest Neighbors](#)
+### [Train Decision Trees & K-Nearest Neighbors](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling)
 Trained and evaluated classification models using Decision Trees and KNN, compared performance, and tuned hyperparameters for better accuracy.  
+Here the data that I used: [airbnbData_Prepared.csv](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling/blob/main/Database/airbnbData_Prepared.csv), [airbnb_readytoOHE.csv](https://github.com/CamilaLightfoot/ML-Life-Cycle-Modeling/blob/main/Database/airbnb_readytoOHE.csv)
+
 **Skills:** scikit-learn, hyperparameter tuning, model evaluation  
+
 
 ### [Lab 5 – Machine Learning Life Cycle: Evaluation and Deployment](#)
 Performed feature selection, evaluated the model with accuracy and confusion matrix, and discussed considerations for deployment in production.  
