@@ -40,7 +40,12 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 
 - **Dataset Used:** [airbnbData_train(2).csv](https://github.com/CamilaLightfoot/Machine-Learning-Life-Cycle-Evaluation-and-Deployment/blob/main/Database/airbnbData_train%20(2).csv)
 
-- **Skills:** Feature selection, evaluation metrics, deployment considerations  
+- **Skills:** Feature selection, evaluation metrics, deployment considerations
+
+### [TealTurtle](https://github.com/CamilaLightfoot/TealTurtle)
+- **What We Did:** An **AI-driven, PoseNet-powered interactive health education tool for kids** designed to make learning about wellness fun and engaging.
+
+- **Skills:** Pose estimation, AI-assisted interactivity, Node.js, Azure OpenAI, front-end integration.
 
 
 ## Tech Stack
