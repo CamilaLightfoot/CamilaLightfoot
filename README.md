@@ -8,7 +8,8 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 ## 📬 How to Reach Me:
 - 📧 **Email:** [camilacs_6@hotmail.com](mailto:camilacs_6@hotmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/camila-lightfoot)
-
+## 📄 Resume
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/Camila_Lightfoot_Resume.pdf)
 
 ## 📂 Featured Projects
 
