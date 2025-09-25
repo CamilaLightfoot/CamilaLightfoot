@@ -1,5 +1,6 @@
 # Hi, I'm Camila Lightfoot
-[![Camila Lightfoot](https://img.shields.io/badge/Camila%20Lightfoot-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilalightfoot/)
+- 💼 **LinkedIn:** 
+## [![Camila Lightfoot](https://img.shields.io/badge/Camila%20Lightfoot-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilalightfoot/)
 
 I'm a Computer Science student at George Mason University and an AI Fellow at Break Through Tech in partnership.
 I’m passionate about applying Machine Learning to real-world problems, from sentiment analysis to image classification, with a strong foundation in Python, scikit-learn, and data-driven storytelling.
@@ -7,7 +8,7 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 
 ## 📬 How to Reach Me:
 - 📧 **Email:** [camilacs_6@hotmail.com](mailto:camilacs_6@hotmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/camila-lightfoot)
+- 💼 [LinkedIn](https://www.linkedin.com/in/camila-lightfoot) 
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/Camila_Lightfoot_Resume.pdf)
 
