@@ -7,10 +7,10 @@ I’m passionate about applying Machine Learning to real-world problems, from se
 I love exploring how data can tell stories and drive impactful decisions. My work spans from building classification models to preparing complex datasets for predictive modeling — always with an eye toward clarity, reproducibility, and practical application.  
 
 ## 📬 How to Reach Me:
-- 📧 **Email:** [camilacs_6@hotmail.com](mailto:camilacs_6@hotmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/camila-lightfoot) 
+- 📧 **Email:** [camilalightfoot@outlook.com](mailto:camilalightfoot@outlook.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/camilalightfoot/)
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/Camila_Lightfoot_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/camila_lightfoot_resume.pdf)
 
 ## 📂 Featured Projects
 
