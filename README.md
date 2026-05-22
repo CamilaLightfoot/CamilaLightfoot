@@ -15,9 +15,9 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 ## 📂 Featured Projects
 
 ### [Fall AI Studio Project](https://github.com/CamilaLightfoot/Fall-AI-Studio)
-- **What I Did:** Partnered with Planned Parenthood Federation to analyze and augment chatbot data to improve sexual and reproductive health responses.  
-- **Tools & Skills:** Data analysis, binary classification, confusion matrix evaluation, model development, deployment considerations.  
-- **Result:** Delivered a predictive model capable of identifying chatbot cases needing improved responses.  
+- **What I Did:** Collaborated with a multidisciplinary team through Break Through Tech AI Studio to analyze, preprocess, and augment chatbot conversation data to improve the performance of Roo, a sexual and reproductive health chatbot. Contributed to exploratory data analysis, dataset balancing, and machine learning model development while following responsible AI practices. 
+- **Tools & Skills:** Python, Pandas, Scikit-Learn, TF-IDF, data preprocessing, data augmentation, exploratory data analysis (EDA), classification models, model evaluation, responsible AI, Git/GitHub  
+- **Result:** Developed and evaluated predictive models to help identify chatbot interactions that may require human educator involvement, supporting improved decision-making and more reliable chatbot behavior. Due to confidentiality agreements, specific datasets and internal results are not publicly shared.
 
 
 ### [ETL Pipeline for AirBnB Data Modeling](https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
