@@ -65,17 +65,17 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 A collection of projects covering the full Machine learning foundations, from data preprocessing to model deployment.
 
 ## Currently Learning
-- Cloud deployment of ML models  
-- React + Django integration  
-- Advanced model tuning & feature engineering  
+- Data pipelines and ETL workflows
+- Cloud platforms and data infrastructure fundamentals
+- Advanced SQL, database optimization, and data modeling
 
 ## Interests & Hobbies
-- **Machine Learning & Data Science**  
-- **Ethical AI & Algorithmic Fairness**  
-- **Database Design & Web Development**  
-- Paddle boarding 🏄‍♀️  
-- Traveling & exploring new cultures ✈️  
-- Collecting pins from my trips 📍  
+- **Data Engineering & Database Systems**
+- **Data Analytics and Information Management**
+- **Cloud Technologies & Scalable Systems**
+- Pickleball 🏓
+- Traveling & exploring new cultures ✈️
+- Collecting pins from my trips 📍
 
 ## GitHub Stats
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaLightfoot&show_icons=true&theme=default)
