@@ -19,6 +19,11 @@ I love exploring how data can tell stories and drive impactful decisions. My wor
 - **Tools & Skills:** Python, Pandas, Scikit-Learn, TF-IDF, data preprocessing, data augmentation, exploratory data analysis (EDA), classification models, model evaluation, responsible AI, Git/GitHub  
 - **Result:** Developed and evaluated predictive models to help identify chatbot interactions that may require human educator involvement, supporting improved decision-making and more reliable chatbot behavior. Due to confidentiality agreements, specific datasets and internal results are not publicly shared.
 
+### [WiDS Global Datathon 2026 – Predicting Time-to-Threat for Evacuation Zones Using Survival Analysis](https://github.com/CamilaLightfoot/WiDS-Global-Datathon-2026-Predicting-Time-to-Threat-for-Evacuation-Zones-Using-Survival-Analysis.git)
+
+- **What I Did:** Collaborated on a wildfire prediction project focused on estimating the probability that a wildfire would threaten evacuation zones within multiple time windows (12h, 24h, 48h, and 72h). Worked with early-stage wildfire perimeter and spatial data to explore patterns, preprocess features, analyze relationships, and support predictive modeling for time-sensitive emergency response decisions.
+- **Tools & Skills:** Python, Pandas, NumPy, exploratory data analysis (EDA), feature engineering, survival analysis, data preprocessing, probability forecasting, model evaluation, data visualization, Git/GitHub.
+- **Result:** Developed forecasting models that combined wildfire growth, spatial movement, and evacuation proximity signals to estimate time-to-threat risk, supporting prioritization of emergency alerts and resource allocation decisions.
 
 ### [ETL Pipeline for AirBnB Data Modeling](https://github.com/CamilaLightfoot/ML-Life-Cycle-Data-Understanding-and-Data-Preparation)
 - **What I Did:** Preprocesses Airbnb data, handles missing values, transforms categorical and numerical variables, and identifies relevant features for modeling.  
